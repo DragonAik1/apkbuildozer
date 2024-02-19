@@ -1,0 +1,3 @@
+title=<erere>
+author=<erer>
+orientation=<portrait|landscape>
